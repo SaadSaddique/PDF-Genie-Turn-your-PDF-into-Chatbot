@@ -1,0 +1,34 @@
+# --- Secrets ---
+.env
+
+# --- Virtual environment ---
+.venv/
+
+# --- Python cache & build ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.cache/
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- App / framework cache ---
+.streamlit/
+*.log
+
+# --- OS clutter ---
+.DS_Store
+Thumbs.db
+
+# --- Local app data ---
+data/index/
+data/raw_pdfs/
+
+# --- Editor configs (optional) ---
+.vscode/
+.idea/
