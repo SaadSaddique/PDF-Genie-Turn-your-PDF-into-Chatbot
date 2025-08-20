@@ -111,4 +111,4 @@ PRs and issues are welcome! Feel free to fork and improve.
 ---
 
 ## 👨‍💻 Author
-Built with ❤️ by [Your Name](https://github.com/SaadSaddique)  
+Built with ❤️ by [Saad Ai](https://github.com/SaadSaddique)  
